@@ -67,7 +67,7 @@ public class Resturant extends JFrame {
 	}
 	public Resturant() {
 		Super("Restaurant Management");
-        bill = "\tGroup 3D Restaurant\n\n\n\n\tOrder Some food for yourself  😄";
+        bill = "\tRestaurant\n\n\n\n\tOrder Some food for yourself  😄";
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(0, 0, 1410, 800);
 		contentPane = new JPanel();
